@@ -1,0 +1,6 @@
+*.swp
+*.swn
+*.pyc
+.idea/
+.DS_Store
+*.bloom
